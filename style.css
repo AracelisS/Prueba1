@@ -1,0 +1,7 @@
+*{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(174,214,241,1) 0%); 
+}
+h1,h2{
+    color:black;
+}
