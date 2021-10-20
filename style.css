@@ -5,3 +5,15 @@
 h1,h2{
     color:black;
 }
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+
+}
